@@ -377,5 +377,13 @@ app.main = (function() {
 	};
 })();
 
+
+if(/Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) || (window.innerWidth < 640)){
+     $('.video').on('click', function( e ) {
+       e.preventDefault();
+       window.location = "https://www.youtube.com/watch?v=0x16ngo8xfY&list=PLzSXIFcDqpiCiKXMtXtVIHnmor9uUsEhC&autoplay=1";
+     });
+  }
+
 /* Wait for all elements on the page to load */
 window.addEventListener('DOMContentLoaded', app.main.init);
