@@ -1,0 +1,226 @@
+[
+  {
+    "id": 1,
+    "name": "Life VR",
+    "profile-pic": "https://player.vimeo.com/video/207306925",
+    "project": {
+      "title": "LIFE VR | HOME: A UN VR Film",
+      "thesis-category": "culture",
+      "iframe": "https://player.vimeo.com/video/207306925",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "northamerica",
+      "studio-professor-2": "northamerica"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Danielle Sobel",
+    "profile-pic": "https://www.youtube.com/embed/gJ9jCk70MsM",
+    "project": {
+      "title": "Dad Cooking",
+      "thesis-category": "gender",
+      "iframe": "https://player.vimeo.com/video/208746097",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "northamerica",
+      "studio-professor-2": "asia"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Jeana Chesnik",
+    "profile-pic": "https://player.vimeo.com/video/211368175",
+    "project": {
+      "title": "Family",
+      "thesis-category": "nationality",
+      "iframe": "https://player.vimeo.com/video/211368175",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "northamerica",
+      "studio-professor-2": "southamerica"
+    }
+  },
+  {
+    "id": 4,
+    "name": "New York Times",
+   "profile-pic": "https://www.youtube.com/embed/ecavbpCuvkI",
+    "project": {
+      "title": "The Displaced",
+      "thesis-category": "nationality",
+      "iframe": "https://www.youtube.com/embed/ecavbpCuvkI",
+      "blurb": "War has driven 30 million children from their homes. These are the stories of three of them.",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "middleeast",
+      "studio-professor-2": "middleeast"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Google Immerse VR",
+   "profile-pic": "https://www.youtube.com/embed/tvdQ3xaA3l8?list=PL590L5WQmH8c8AJGzN1laCvgUXFqDb9um",
+    "project": {
+      "title": "Racial Identity: Clayton’s Story 360º VR Video",
+      "thesis-category": "race",
+      "iframe": "https://www.youtube.com/embed/tvdQ3xaA3l8?list=PL590L5WQmH8c8AJGzN1laCvgUXFqDb9um",
+      "blurb": "Google Immerse VR videos investigate race, diversity, and identity by exploring how real people interact with the world and how the world interacts with them. Experience the other Google Immerse VR videos at https://www.youtube.com/playlist?list...",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "middleeast",
+      "studio-professor-2": "middleeast"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Google Immerse VR",
+ "profile-pic": "https://www.youtube.com/embed/ogBxn9a_6R0",
+    "project": {
+      "title": "Racial Identity: Dezzie's Story 360º VR Video",
+      "thesis-category": "race",
+      "iframe": "https://www.youtube.com/embed/ogBxn9a_6R0",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "northamerica",
+      "studio-professor-2": "middleeast"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Georgy Molodtsov",
+     "profile-pic": "https://player.vimeo.com/video/207464964",
+    "project": {
+      "title": "VRAbility: Maxim Kiselev",
+      "thesis-category": "gender",
+      "iframe": "https://player.vimeo.com/video/207464964",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "First Russian VR360 documentary from VRability project. Maxim Kiselev is the only professional figure ice skater on a wheelchair in the world. Experience his life in 360 spherical world and learn more about him and posibilities for people with disabilities in Russia at vrability.ru/en Project authors – Georgy Molodtsov, Stanislav Kolesnik Producers - Dmitry Agutin, Georgy Molodtsov info@vrability.ru.",
+      "studio-professor-1": "europe",
+      "studio-professor-2": "europe"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Mr. Patrick Malley",
+     "profile-pic": "https://player.vimeo.com/video/208578136?byline=0&portrait=0",
+    "project": {
+      "title": "The Women’s March",
+      "thesis-category": "nationality",
+      "iframe": "https://player.vimeo.com/video/208578136?byline=0&portrait=0",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "The Women's March. New York City. A historic turnout of support for women's rights and equality. Captured in 360, to help understand the scope of how large an event this was. Special thanks to Tyler Pridgen for help in producing this.",
+      "studio-professor-1": "northamerica",
+      "studio-professor-2": "africa"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Ben Ratner",
+    "profile-pic": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbenjaminhratner%2Fvideos%2F10153724601680095%2F&show_text=0&width=560",
+    "project": {
+      "title": "Eating KFC - 360 Degree Video",
+      "thesis-category": "gender",
+      "iframe": "https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fbenjaminhratner%2Fvideos%2F10153724601680095%2F&show_text=0&width=560",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "europe",
+      "studio-professor-2": "europe"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Highlight Israel",
+     "profile-pic": "https://www.youtube.com/embed/zsPQoMnRiOc",
+    "project": {
+      "title": "Tel Aviv 360 video: Rothschild Blvd.",
+      "thesis-category": "religion",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/Screen-Shot-2016-04-05-at-3.51.47-PM.png",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "middleeast",
+      "studio-professor-2": "northamerica"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Travel Immersion",
+ "profile-pic": "https://www.youtube.com/embed/ARLjMiXyhN8",
+    "project": {
+      "title": "Video VR - Paris 360 - Travel Immersion",
+      "thesis-category": "nationality",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/teaser_dataselfie.gif",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "europe",
+      "studio-professor-2": "asia"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Danielle Sobel",
+    "profile-pic": "https://www.youtube.com/embed/pOUI8K4L97w",
+    "project": {
+      "title": "Snow Day",
+      "thesis-category": "sexualorientation",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/BlackScreen-Shot-2016-04-20-at-3.25.30-PM.png",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "europe",
+      "studio-professor-2": "europe"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Name",
+    "profile-pic": "https://www.youtube.com/embed/5wutdCTE3mg",
+    "project": {
+      "title": "Video Title",
+      "thesis-category": "race",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/05/Gif-Files3.gif",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "middleeast",
+      "studio-professor-2": "middleeast"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Danielle Sobel",
+     "profile-pic": "https://www.youtube.com/embed/S9kcslrLsko",
+    "project": {
+      "title": "Pesach 2017",
+      "thesis-category": "culture",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/SIFT_lg.jpg",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "northamerica",
+       "studio-professor-2": "europe"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Danielle Sobel",
+    "profile-pic": "https://www.youtube.com/embed/HL_iOCjoeCI",
+    "project": {
+      "title": "95th Birthday",
+      "thesis-category": "culture",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/UploadWeb.jpg",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "northamerica",
+       "studio-professor-2": "southamerica"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Name",
+     "profile-pic": "https://www.youtube.com/embed/5wutdCTE3mg",
+    "project": {
+      "title": "Video Title",
+      "thesis-category": "gender",
+      "image": "http://mfadt.parsons.edu/2016/wp-content/uploads/2016/04/Screen-Shot-2016-06-10-at-11.52.26-PM.png",
+      "blurb": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aut unde est hoc contritum vetustate proverbium: quicum in tenebris? Qui si omnes veri erunt, ut Epicuri ratio docet, tum denique poterit aliquid cognosci et percipi. Duo Reges: constructio interrete. Non est igitur summum malum dolor. Quid de Platone aut de Democrito loquar? Quem Tiberina descensio festo illo die tanto gaudio affecit, quanto L. Quae sequuntur igitur?",
+      "description": "Certe nihil nisi quod possit ipsum propter se iure laudari. Omnia contraria, quos etiam insanos esse vultis. Qui non moveatur et offensione turpitudinis et comprobatione honestatis? Refert tamen, quo modo. Satis est ad hoc responsum. Terram, mihi crede, ea lanx et maria deprimet. Quae diligentissime contra Aristonem dicuntur a Chryippo.",
+      "studio-professor-1": "southamerica",
+      "studio-professor-2": "southamerica"
+    }
+  }
+]

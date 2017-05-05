@@ -1,0 +1,155 @@
+/** {
+    margin:0;
+    padding:0;
+
+}
+
+
+html {
+    zoom: 0.9;
+}
+body{
+    font: normal 16px Helvetica, sans-serif;
+}
+h1, h3{
+    font: normal 24px Helvetica, sans-serif;
+}
+a:link, a:visited {
+    color: rgba(231, 11, 128, 0.9);
+    text-decoration: none;
+}*/
+
+
+
+.intro {
+   /* background-color: white;*/
+     background-image:
+    linear-gradient(
+      to top right, 
+      #EF0EF8, #511DDE
+    );
+}
+
+
+.short_content {
+    height: 100vh;
+    width: 100vw;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: left;
+    align-items: left;
+    text-align: left;
+}
+
+
+.scape{
+    font-weight: bolder;
+}
+
+
+#name {
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Avenir_Black', Helvetica, sans-serif;
+    font-size: 100px;
+    line-height: 35px;
+    background-image:
+    font-weight: lighter;
+   
+}
+
+#title {
+    color: white;
+    text-transform: lowercase;
+    font-family: 'Avenir_Light', Helvetica, sans-serif;
+    font-size: 24px;
+    line-height: 24px;
+    letter-spacing: 3px;
+
+}
+
+#chartContainer{
+ 
+    text-align: center;
+    background-color: white;
+     height: 100vh;
+    width: 100vw;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about {
+    background-color: #f1f1f1;
+}
+
+.short_content {
+    height: 100vh;
+    width: 100vw;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about p {
+    color: black;
+    font-family:  Helvetica, sans-serif;
+    font-size: 26px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    margin-left: 10%;
+    text-align: left;
+    width: 60%;
+    min-width: 450px;
+}
+
+p {
+    display: block;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+}
+
+img{
+    text-align: center;
+    width: 30%;
+    height: auto;
+    display: inline-block;
+}
+
+.button {
+    background-color: #f1f1f1;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+#bottom{
+  position:relative;
+  width:100%;
+  height:30px;   
+  bottom:0;
+  background-color:  #511DDE;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 12px;
+  padding-top:20px;
+}

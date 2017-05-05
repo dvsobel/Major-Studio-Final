@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta charset="utf-8">
+
+	<title>Projects</title>
+	<link href="assets/css/styles.css" rel="stylesheet">
+</head>
+
+<body>
+	<div class="main-content">
+
+		<div class="all-students page">
+			<div class="filters">
+				 <h1 class="ultra-big">Identiscape</h1>
+				<h5>A 360 Application</h5>
+				<button class="abt">About</button>
+				<button class="ctc">Contact</button>
+
+
+
+<!-- <form>
+	<div class="filter-criteria">
+	<span>By Identity Group</span> -->
+
+    <!-- <label><input type="button"  name="thesis-category" value="all">All</label> -->
+
+<!--     <label><input type="radio"  value="race" name="thesis-category">Race</label>
+
+    <label><input type="radio"  value ="gender" name="thesis-category" >Gender</label>
+
+      <label><input type="radio"  value ="sexualorientation" name="thesis-category" >Sexual Orientation</label>
+
+    <label><input type="radio"  value ="nationality" name="thesis-category">Nationality</label>
+
+     <label><input type="radio" value ="culture" name="thesis-category">Culture</label>
+
+     <label><input type="radio" value ="religion" name="thesis-category">Religion</label>
+
+      <label><input type="radio" value ="economicstatus" name="thesis-category">Economic Status</label>
+
+
+  </div>
+  </form> -->
+
+
+
+				<form>
+					<div class="filter-criteria">
+						<span>By Identity Group</span>
+						<label><input type="checkbox" name="thesis-category" value="race">Race</label>
+						<label><input type="checkbox" name="thesis-category" value="gender">Gender</label>
+						<label><input type="checkbox" name="thesis-category" value="sexualorientation">Sexual Orientation</label>
+						<label><input type="checkbox" name="thesis-category" value="nationality">Nationality</label>
+						<label><input type="checkbox" name="thesis-category" value="culture">Culture</label>
+						<label><input type="checkbox" name="thesis-category" value="religion">Religion</label>
+						<label><input type="checkbox" name="thesis-category" value="economicstatus">Economic Status</label>
+						<!-- <label><input type="checkbox" name="thesis-category" value="soniclandscapes">Sonic Landscapes</label> -->
+					</div>
+<br>
+					<div class="filter-criteria">
+						<span>By Location</span>
+						<label><input type="checkbox" name="studio-professor-1" value="northamerica">North America</label>
+						<label><input type="checkbox" name="studio-professor-1" value="southamerica">South America</label>
+						<label><input type="checkbox" name="studio-professor-1" value="asia">Asia</label>
+						<label><input type="checkbox" name="studio-professor-1" value="middleeast">Middle East</label>
+						<label><input type="checkbox" name="studio-professor-1" value="europe">Europe</label>
+						<label><input type="checkbox" name="studio-professor-1" value="africa">Africa</label>
+					</div>
+<br>
+					<button class="clear">Clear filters</button>
+				</form>
+			</div>
+
+			<ul class="students-list">
+				<script id="students-template" type="x-handlebars-template">​
+					{{#each this}}
+						<li data-index="{{id}}">
+
+							<a href="#" class="student-photo"><iframe src="{{profile-pic}}"  alt="{{name}}" frameborder="0"webkitallowfullscreen mozallowfullscreen allowfullscreen/></a>
+							<h2><a href="#"> {{name}} </a><br/></h2>
+							<h3>{{project.title}}</h3>
+							<ul class="project-description">
+								<li><span>Category: </span>{{project.thesis-category}}</li>
+								<li>{{project.studio-professor-1}}</li>
+							</ul>
+
+
+						</li>
+					{{/each}}
+				</script> 
+			</ul>
+
+		</div>
+
+		<div class="about page">
+			<div class="overlay"></div>
+			<div class="container">
+				<h3>About This Project</h3>
+				<p>This is a page for my Major Studio 2 final project. I am searching for a way for people to explore through 360 experiences so they can be aware of how identities tie to our environment.</p>
+				<span class="close">×</span>
+			</div>
+		</div>
+
+		<div class="contact page">
+			<div class="overlay"></div>
+			<div class="container">
+				<h3>Contact!</h3>
+				<p>If</p>
+				<span class="close">×</span>
+			</div>
+		</div>
+
+		<div class="single-project page">
+			<div class="overlay"></div>
+			<div class="popup-detail">
+				<!--these dummy contents are dynamically changed from script.js-->
+				<h3>Single project view</h3>
+				<h4>Blurb placeholder</h4>
+				<iframe src=""> </iframe>
+				<p></p>
+				<span class="close">×</span>
+			</div>
+
+		</div>
+
+		<div class="error page">
+			<h3>Something went wrong and I'm not sure why.. :o</h3>
+		</div>
+
+	</div>
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	<script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
+	<script src="assets/js/script.js"></script>
+
+</body>
+</html>
